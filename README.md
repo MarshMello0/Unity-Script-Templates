@@ -1,6 +1,7 @@
-# Unity Script Templates
+# 📝 Unity Script Templates
 
 This is a collection of some script templates you can use to help speed up the creation of new scripts. These templates are what I currently use.
+
 ![Sreenshot](https://raw.githubusercontent.com/MarshMello0/Unity-Script-Templates/master/Images/Screenshot.PNG)
 ## How to install
 ### Into project (Useful with source control)
